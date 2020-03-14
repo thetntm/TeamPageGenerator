@@ -2,7 +2,7 @@
 
   This command line application will generate a basic team page with the data of all your employees! just enter the data as specified, and then grab the generated html file from the 'output' folder!
 
-  ![screenshot](./Assets/screenshot1.png)
+  ![screenshot](./Assets/screenshot2.png)
 
   [video](https://www.youtube.com/watch?v=eVWApbNpVTo&feature=emb_title)
   
